@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>false</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Flow to test custom action.</description>
+        <internal_name>action_test_flow</internal_name>
+        <label_cache>[{"name":"760f7093-e32b-43c0-9d2f-209acce3c974.property_value","label":"1➛Property value","reference_display":"Property value","type":"string","base_type":"string"},{"name":"2e79bc21-9d89-43a1-b382-818e3e02608e.property_value","label":"1➛Property value","reference_display":"Property value","type":"string","base_type":"string"},{"name":"d69f9700-64bb-4989-973f-24267c215e6f.calculated_date","label":"1➛Calculated date","reference_display":"Calculated date","type":"glide_date","base_type":"glide_date"},{"name":"0fe16787-b598-4316-a6b3-d150394f7535.follow_up_task","label":"2➛Follow-up task","reference":"x_58872_needit_needit_task","reference_display":"Follow-up task","type":"reference","base_type":"reference"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Action Test Flow</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>true</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-29 20:46:48</sys_created_on>
+        <sys_id>6224ac24dbd023004d5d5608689619b9</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Action Test Flow</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_265424_needit_sp">1a5268e0dbd023004d5d5608689619be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">1a5268e0dbd023004d5d5608689619be</sys_scope>
+        <sys_update_name>sys_hub_flow_6224ac24dbd023004d5d5608689619b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-17 14:45:38</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_variable_value action="delete_multiple" query="document_key=6224ac24dbd023004d5d5608689619b9"/>
+</record_update>

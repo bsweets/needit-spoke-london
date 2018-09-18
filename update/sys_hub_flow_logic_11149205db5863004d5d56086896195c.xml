@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">d9149205db5863004d5d56086896195a</block>
+        <comment/>
+        <connected_to>c0f968c6-7f67-478b-a89a-c5f95c8c83bc</connected_to>
+        <display_text/>
+        <flow display_value="Simple Output Assignment">618e0245db1863004d5d56086896193c</flow>
+        <inputs/>
+        <logic_definition display_value="Else If">666e5545c3e232002841b63b12d3ae99</logic_definition>
+        <order>3</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-31 18:12:45</sys_created_on>
+        <sys_id>11149205db5863004d5d56086896195c</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Spoke" source="x_265424_needit_sp">1a5268e0dbd023004d5d5608689619be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">1a5268e0dbd023004d5d5608689619be</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_11149205db5863004d5d56086896195c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-31 20:18:29</sys_updated_on>
+        <ui_id>1898e1be-b73a-42a0-aa26-20e8c6953d51</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=11149205db5863004d5d56086896195c"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>11149205db5863004d5d56086896195c</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-31 18:12:45</sys_created_on>
+        <sys_id>91149205db5863004d5d560868961960</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-31 18:12:45</sys_updated_on>
+        <value>User's first name is Adela</value>
+        <variable display_value="">f0af19c1c32632002841b63b12d3aea2</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>11149205db5863004d5d56086896195c</document_key>
+        <order>20</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-31 18:12:45</sys_created_on>
+        <sys_id>dd149205db5863004d5d56086896195f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-31 18:12:45</sys_updated_on>
+        <value>{{046582bf-0472-4816-9e04-e41a6656cafc.Record.first_name}}=Adela</value>
+        <variable display_value="">f0af19c1c32632002841b63b12d3aea1</variable>
+    </sys_variable_value>
+</record_update>

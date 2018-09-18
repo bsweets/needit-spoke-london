@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="my_output" label="My output" language="en" table="var__m_sys_hub_flow_output_4f74d605db5863004d5d5608689619a3">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>my_output</element>
+            <help/>
+            <hint/>
+            <label>My output</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_output_4f74d605db5863004d5d5608689619a3</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-31 18:14:31</sys_created_on>
+            <sys_id>0374d605db5863004d5d5608689619aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>My output</sys_name>
+            <sys_package display_value="NeedIt Spoke" source="x_265424_needit_sp">1a5268e0dbd023004d5d5608689619be</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt Spoke">1a5268e0dbd023004d5d5608689619be</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_flow_output_4f74d605db5863004d5d5608689619a3_my_output_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-31 18:14:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

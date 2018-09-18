@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">9374fe85db9863004d5d5608689619dc</block>
+        <comment/>
+        <connected_to>4a6729e8-1650-4f62-abda-9f995891782f</connected_to>
+        <display_text/>
+        <flow display_value="Simple Output Test 2">9bf0b209db5863004d5d56086896195b</flow>
+        <inputs/>
+        <logic_definition display_value="Else">1f781bf3c32232002841b63b12d3aee6</logic_definition>
+        <order>3</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-31 20:34:20</sys_created_on>
+        <sys_id>d774fe85db9863004d5d5608689619dd</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Spoke" source="x_265424_needit_sp">1a5268e0dbd023004d5d5608689619be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">1a5268e0dbd023004d5d5608689619be</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_d774fe85db9863004d5d5608689619dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-31 20:35:38</sys_updated_on>
+        <ui_id>8ca8ba82-d7ac-48db-97e8-024c3dd6e8b9</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=d774fe85db9863004d5d5608689619dd"/>
+</record_update>
